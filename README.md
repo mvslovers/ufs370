@@ -63,7 +63,7 @@ doc/          Changelog and documentation
 
 ## Acknowledgments
 
-This project was created by **Michael Dean Rayborn**, whose extensive work on MVS 3.8j tooling forms the foundation of the entire MVS open-source ecosystem.
+This project was created by Michael Dean Rayborn, who has contributed several tools used within the MVS 3.8j open-source ecosystem.
 
 ## License
 
