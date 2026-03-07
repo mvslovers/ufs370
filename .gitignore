@@ -9,10 +9,12 @@ asm/*.s
 .mbt/
 contrib/
 dist/
+.build-warnings
 
 # IDE
 *.geany
 compile_commands.json
+.cache/
 CLAUDE.md
 
 # Environment
