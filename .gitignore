@@ -2,6 +2,9 @@
 src/*.s
 asm/*.s
 
+# Object files
+*.o
+
 # mbt build state
 .mbt/
 contrib/
