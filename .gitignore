@@ -13,6 +13,7 @@ dist/
 # IDE
 *.geany
 compile_commands.json
+CLAUDE.md
 
 # Environment
 .env
