@@ -3,6 +3,14 @@ name = "ufs370"
 version = "1.0.1-dev"
 type = "library"
 
+[mvs.build.datasets.source]
+suffix = "SOURCE"
+dsorg = "PO"
+recfm = "FB"
+lrecl = 80
+blksize = 3120
+space = ["TRK", 30, 10, 50]
+
 [mvs.build.datasets.punch]
 suffix = "OBJECT"
 dsorg = "PO"
